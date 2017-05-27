@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="SBT 2" modules="auth-codecard,identity-manager,metricsCommon,token-manager" />
+    <profile name="SBT 2" modules="reactive-microservice-prac,metric-collector">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <parameters>
+        <parameter value="-encoding" />
+        <parameter value="utf8" />
+      </parameters>
+    </profile>
+  </component>
+</project>

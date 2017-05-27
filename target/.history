@@ -1,0 +1,5 @@
+project auth-codecard
+project identity-manager
+project auth-codecard
+help debug
+project token-manager

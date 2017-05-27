@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="metric-collector"
+		module="metric-collector_2.12"
+		revision="1.0"
+		conf="docs"
+		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
+		date="20170103130908"/>
+	<dependencies>
+		<module organisation="com.typesafe.play" name="play-omnidoc_2.12">
+			<revision name="2.5.5" error="not found" downloaded="false" searched="false" conf="default(compile)" position="-1">
+				<caller organisation="metric-collector" name="metric-collector_2.12" conf="docs" rev="2.5.5" rev-constraint-default="2.5.5" rev-constraint-dynamic="2.5.5" callerrev="1.0"/>
+				<artifacts>
+				</artifacts>
+			</revision>
+		</module>
+	</dependencies>
+</ivy-report>

@@ -1,0 +1,2 @@
+[0m[[0mdebug[0m] [0mSubclass fingerprints: List((junit.framework.TestCase,false,com.novocode.junit.JUnit3Fingerprint@36950cc3))[0m
+[0m[[0mdebug[0m] [0mAnnotation fingerprints: List((org.junit.runner.RunWith,false,com.novocode.junit.RunWithFingerprint@3c952b2), (org.junit.Test,false,com.novocode.junit.JUnitFingerprint@4e4d4c16))[0m

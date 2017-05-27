@@ -1,0 +1,8 @@
+[0m[[0minfo[0m] [0m[32mTokenApiSpecs:[0m[0m
+[0m[[0minfo[0m] [0m[32mToken Api[0m[0m
+[0m[[0minfo[0m] [0m[31m- should create new Token *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  HttpEntity.Strict(text/plain; charset=UTF-8,There was an internal server error.) was not an instance of main.scala.Token, but an instance of akka.http.scaladsl.model.HttpEntity$Strict (TokenApiSpecs.scala:35)[0m[0m
+[0m[[0minfo[0m] [0m[31m- should get Token By Id *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  500 Internal Server Error was not equal to 200 OK (TokenApiSpecs.scala:45)[0m[0m
+[0m[[0minfo[0m] [0m[31m- should delete Token *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  500 Internal Server Error was not equal to 200 OK (TokenApiSpecs.scala:53)[0m[0m

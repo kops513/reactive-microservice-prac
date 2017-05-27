@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/auth-codecard.iml" filepath="$PROJECT_DIR$/.idea/modules/auth-codecard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/auth-codecard-build.iml" filepath="$PROJECT_DIR$/.idea/modules/auth-codecard-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/identity-manager.iml" filepath="$PROJECT_DIR$/.idea/modules/identity-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/identity-manager-build.iml" filepath="$PROJECT_DIR$/.idea/modules/identity-manager-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/metric-collector.iml" filepath="$PROJECT_DIR$/.idea/modules/metric-collector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/metric-collector-build.iml" filepath="$PROJECT_DIR$/.idea/modules/metric-collector-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/metricsCommon.iml" filepath="$PROJECT_DIR$/.idea/modules/metricsCommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/metricsCommon-build.iml" filepath="$PROJECT_DIR$/.idea/modules/metricsCommon-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reactive-microservice-prac.iml" filepath="$PROJECT_DIR$/.idea/modules/reactive-microservice-prac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reactive-microservice-prac-build.iml" filepath="$PROJECT_DIR$/.idea/modules/reactive-microservice-prac-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/token-manager.iml" filepath="$PROJECT_DIR$/.idea/modules/token-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/token-manager-build.iml" filepath="$PROJECT_DIR$/.idea/modules/token-manager-build.iml" />
+    </modules>
+  </component>
+</project>
